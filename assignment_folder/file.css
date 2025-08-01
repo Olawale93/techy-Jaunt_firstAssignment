@@ -558,7 +558,6 @@ img {
 }
 
 /* FOOTER */
-
 .footer {
   background: #111;
   padding-block: 48px;
@@ -576,10 +575,10 @@ img {
   color: #cfcfcf;
 }
 
-.container p {
+.footer p {
   text-align: center;
-  color: var(--lssight-color);
-  font-weight: 500;
+  color: var(--grey-color);
+  font-weight: 400;
 }
 
 /* FOOTER MEDIA QUERY */
